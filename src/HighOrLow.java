@@ -238,7 +238,7 @@ public class HighOrLow {
       System.out.println("*** 腎臓は２つあります。１つ売っても問題ありませんよ？ ***");
     }
     else if( MONEY_INITIALIZ * ROUND_LIMIT < moneyScore ){
-      System.out.println("*** 勝った！ 勝った！ 今夜はドン勝だ！ ***");
+      System.out.println("*** 勝った！ 勝った！ 今夜はドン勝だ！ 重課金兵だ！ ***");
     }
     System.out.println("*** この画面を閉じてください ***");
     System.exit(1);
